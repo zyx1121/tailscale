@@ -1,0 +1,6 @@
+name: alint
+on:
+  pull_request:
+jobs:
+  alint:
+    uses: zyx1121/.github/.github/workflows/alint.yml@main

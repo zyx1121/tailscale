@@ -1,0 +1,18 @@
+{
+  "name": "tailscale",
+  "version": "0.1.0",
+  "description": "Read a tailnet through MCP: devices, the live policy file and policy validation.",
+  "author": {
+    "name": "zyx1121",
+    "url": "https://github.com/zyx1121"
+  },
+  "repository": "https://github.com/zyx1121/tailscale",
+  "license": "MIT",
+  "keywords": [
+    "tailscale",
+    "tailnet",
+    "mcp",
+    "codex",
+    "claude-code"
+  ]
+}
